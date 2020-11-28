@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.iml
+.idea
+
+git.gitignore
+.idea/.gitignore
+.idea/checkstyle-idea.xml
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
+codesignal.iml
+out/
+src/
